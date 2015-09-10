@@ -33,3 +33,8 @@ section `[DEFAULT]`). `[noChannel]` configures options for direct messages.
 - `interpPrefixes`: (`[String]`) List of prefixes to trigger interpretation on,
   i.e. lines beginning with one of these will be considered requests. Default:
   `["> "]`
+
+
+##### Books
+
+[Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris) by Edwin Brady (Manning Publications). [Chapter 1](https://manning-content.s3.amazonaws.com/download/8/99b07b5-ad1d-4272-860b-c323b3f5bf4c/Brady_TDDwithIdris_MEAP_ch1.pdf)
